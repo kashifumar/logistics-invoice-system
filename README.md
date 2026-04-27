@@ -313,9 +313,6 @@ Both layers are necessary — JS alone can be bypassed; PHP alone doesn't cover 
 
 Designed and built the core backend architecture, multi-module data layer, REST API, permission system, country-specific invoice logic, and Excel/PDF generation pipeline for this system.
 
-- LinkedIn: [linkedin.com/in/kashif-umar](https://www.linkedin.com/in/kashif-umar/)
-- X / Twitter: [@kashif_umar](https://x.com/kashif_umar)
-
 ---
 
 *Built with CodeIgniter 3 · PHP · MySQL · AWS RDS · AWS S3 · PHPExcel · mPDF*
